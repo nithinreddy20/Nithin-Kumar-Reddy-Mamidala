@@ -1,5 +1,5 @@
 using System;
-class HelloWorld {
+class CSharpBasicSyntax {
   static void Main() {
     const string username="Alice";
     const string password="Wonderland123";
